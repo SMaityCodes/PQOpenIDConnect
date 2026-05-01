@@ -1026,4 +1026,4 @@ python ui/app.py
 
 **Questions?** See [TechnicalDocumentation.md](TechnicalDocumentation.md) for detailed explanations or [docs/QUICKSTART.md](docs/QUICKSTART.md) for tutorials.
 
-**Issues?** Run tests: `python src/pq_crypto/test_crypto.py` or check UI: `python ui/app.py`
+**Issues?** Run tests: `python src/pq_crypto/test_crypto.py` or check UI: `python ui/app.py`.
