@@ -988,7 +988,7 @@ February 2026
 - ✅ Source code (well-commented, modular)
 - ✅ Technical documentation (comprehensive)
 - ✅ Benchmark report (PDF with graphs)
-- ✅ Interactive UI (live demonstrations)
+- ✅ Interactive UI (live demonstrations).
 
 ---
 
